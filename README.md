@@ -1,9 +1,3 @@
-Feito\! Inseri suas informações na seção "Autor".
-
-Aqui está o arquivo `README.md` completo e atualizado com seus dados.
-
------
-
 # 🃏 Super Trunfo de Países - Desafio de Programação em C
 
 Este repositório contém um programa em C que simula uma rodada do jogo Super Trunfo, utilizando dados fixos dos países Brasil e Argentina. O projeto foi desenvolvido para aplicar conceitos fundamentais da linguagem C, como o uso de funções, manipulação de variáveis, entrada e saída de dados e lógica condicional para determinar o vencedor.
